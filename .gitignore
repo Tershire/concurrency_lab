@@ -1,3 +1,4 @@
+# C++
 # Prerequisites
 *.d
 
@@ -35,3 +36,35 @@
 *cmake-build-*
 *.idea
 **build**
+
+
+# Python
+# environment
+.idea/
+environment.txt
+
+# jupyter
+.ipynb_checkpoints/
+
+# plot
+iframe_figures/
+
+# byte-compiled / optimized / DLL files
+__pycache__/
+
+# dataset
+dataset/
+
+# model & checkpoints
+model/
+
+# configs
+configs/
+configuration.yaml
+
+# media
+*.png
+*.html
+
+# IDE
+.vscode/
